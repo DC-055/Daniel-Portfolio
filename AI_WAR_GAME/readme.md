@@ -1,5 +1,7 @@
 # AI War Game
 
+*Ran on Visual Studio x86*
+
 # AI War Game – Artificial Intelligence & Computer Graphics 
 
 ## Project Overview
