@@ -1,6 +1,6 @@
 # AI War Game
 
-*Ran on Visual Studio x86*
+*This project was built and executed using the x86 (32-bit) configuration in Visual Studio.*
 
 # AI War Game – Artificial Intelligence & Computer Graphics 
 
