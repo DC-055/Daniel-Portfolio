@@ -123,5 +123,6 @@ This project demonstrates:
 
 ## Notes
 
+In order to run this project, first please run "DC_creation_query.sql" (i've used pgAdmin 4) file and then the project file itself (i've used Eclipse WorkSpace).
 This project was created for academic purposes as part of a database systems course. The focus is on correct data modeling, integrity, and structured system design rather than UI or production deployment.
 
