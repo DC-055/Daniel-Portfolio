@@ -1,5 +1,5 @@
 # AI War Game
-<<<<<<< HEAD
+
 *This project was built and executed using the x86 (32-bit) configuration in Visual Studio.*
 
 
